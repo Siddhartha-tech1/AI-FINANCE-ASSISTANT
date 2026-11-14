@@ -1,0 +1,12 @@
+# Environment and local Python files
+server/.env
+client/.env
+server/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Frontend build and installed dependencies
+client/node_modules/
+client/dist/
+server/ml/*.joblib

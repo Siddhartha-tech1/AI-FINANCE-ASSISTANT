@@ -1,0 +1,33 @@
+description,category
+grocery shopping,Food
+restaurant dinner,Food
+coffee shop,Food
+uber ride,Transport
+metro ticket,Transport
+petrol refill,Transport
+electricity bill,Bills
+internet recharge,Bills
+movie tickets,Entertainment
+netflix subscription,Entertainment
+pharmacy medicine,Health
+doctor consultation,Health
+online course,Education
+college books,Education
+clothes shopping,Shopping
+new shoes,Shopping
+miscellaneous expense,Other
+vegetable market,Food
+cab fare,Transport
+mobile phone purchase,Shopping
+department store purchase,Shopping
+water bill,Bills
+gas bill,Bills
+concert ticket,Entertainment
+gaming subscription,Entertainment
+dental checkup,Health
+hospital visit,Health
+exam fee,Education
+study materials,Education
+parking charge,Other
+household supplies,Other
+cash withdrawal,Other
